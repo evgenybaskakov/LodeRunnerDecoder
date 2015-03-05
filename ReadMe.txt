@@ -31,7 +31,7 @@ Output should look like this:
 #14 ├─┤...───├─┤......───.........───├─┤...............───...───...───...───├─┤───
 #15 .........├─┤............... o ............... o  P .....................├─┤...
 
-Run to decode the desired level in raw mode (endoded with bare numbers):
+Run to decode the desired level in raw mode (encoded with bare numbers):
 
 ./decode loderun.dat 14 raw
 
